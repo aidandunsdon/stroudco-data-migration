@@ -1,0 +1,56 @@
+---
+- :member_id: 1
+  :member_first_name: ''
+  :member_last_name: Hello
+  :member_email: xxx@example.com
+  :member_address1: ''
+  :member_address2: ''
+  :member_address3: ''
+  :member_town: ''
+  :member_county: ''
+  :member_postcode: ''
+  :supplier_id: 1
+- :member_id: 2
+  :member_first_name: S
+  :member_last_name: M
+  :member_email: smi...@example.com
+  :member_address1: U...
+  :member_address2: Cheltenham
+  :member_address3: ''
+  :member_town: ''
+  :member_county: ''
+  :member_postcode: ''
+  :supplier_id: 3
+- :member_id: 3
+  :member_first_name: Ch..
+  :member_last_name: Br..
+  :member_email: i@example.com
+  :member_address1: F.., High Street
+  :member_address2: Chalford
+  :member_address3: ''
+  :member_town: Stroud
+  :member_county: G...
+  :member_postcode: ABC DEF
+  :supplier_id: 5
+- :member_id: 4
+  :member_first_name: J
+  :member_last_name: B
+  :member_email: j@email
+  :member_address1: ''
+  :member_address2: ''
+  :member_address3: ''
+  :member_town: ''
+  :member_county: ''
+  :member_postcode: ''
+  :supplier_id: 7
+- :member_id: 5
+  :member_first_name: M
+  :member_last_name: R
+  :member_email: m@c.co
+  :member_address1: C... R...
+  :member_address2: ''
+  :member_address3: ''
+  :member_town: Stroud
+  :member_county: G...
+  :member_postcode: ABC DEF
+  :supplier_id: 12

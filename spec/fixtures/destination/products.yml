@@ -1,0 +1,62 @@
+---
+- !ruby/object:Ofn::Migration::Destination::Spree::Product
+  id: 1
+  name: Strawberries 100g
+  description: ! "Punnet of fresh organic strawberries hand picked by child labour
+    and washed in pure rain\n (this is a test of a long description)"
+  supplier_id: 
+  variant_unit: 
+  notes: 
+  variants:
+  - !ruby/object:Ofn::Migration::Destination::Spree::Variant
+    sku: DBSB100
+    count_on_hand: 1.0
+    cost_price: 1.2037
+- !ruby/object:Ofn::Migration::Destination::Spree::Product
+  id: 2
+  name: Mixed salad leafs 100g
+  description: Fresh picked salad leafs in small plastic bag
+  supplier_id: 
+  variant_unit: 
+  notes: 
+  variants:
+  - !ruby/object:Ofn::Migration::Destination::Spree::Variant
+    sku: DBSAL1
+    count_on_hand: 1.0
+    cost_price: 0.7963
+- !ruby/object:Ofn::Migration::Destination::Spree::Product
+  id: 3
+  name: squirrel, 1 carcass
+  description: trapped, cleaned, skinned
+  supplier_id: 
+  variant_unit: 
+  notes: 
+  variants:
+  - !ruby/object:Ofn::Migration::Destination::Spree::Variant
+    sku: sq1
+    count_on_hand: 1.0
+    cost_price: 9.2593
+- !ruby/object:Ofn::Migration::Destination::Spree::Product
+  id: 4
+  name: Chilli Oil - 500ml
+  description: Bottle olive oil infused with chilli oil from my own firey chillis
+  supplier_id: 
+  variant_unit: 
+  notes: 
+  variants:
+  - !ruby/object:Ofn::Migration::Destination::Spree::Variant
+    sku: DCCO01
+    count_on_hand: 1.0
+    cost_price: 2.758
+- !ruby/object:Ofn::Migration::Destination::Spree::Product
+  id: 5
+  name: Cherry tomatoes 100g
+  description: Fresh organic cherry toms on the vine
+  supplier_id: 
+  variant_unit: 
+  notes: 
+  variants:
+  - !ruby/object:Ofn::Migration::Destination::Spree::Variant
+    sku: DBTOM1
+    count_on_hand: 1.0
+    cost_price: 1.0185

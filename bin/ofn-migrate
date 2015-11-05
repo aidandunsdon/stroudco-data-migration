@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+
+require_relative "../lib/ofn"
+
+I18n.enforce_available_locales = false
+
+Ofn::Migration::Application.start(ARGV)

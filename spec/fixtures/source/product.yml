@@ -1,0 +1,62 @@
+---
+- :product_id: 1
+  :product_name: Strawberries 100g
+  :product_description: ! "Punnet of fresh organic strawberries hand picked by child
+    labour and washed in pure rain\n (this is a test of a long description)"
+  :product_category_id: 3
+  :product_supplier_id: 1
+  :product_code: DBSB100
+  :product_pkg_count: 1.0
+  :product_available: false
+  :product_cost: 1.2037
+  :product_units: 100g
+  :product_more_info: ! 'Delicious traditional variety.
+
+'
+- :product_id: 2
+  :product_name: Mixed salad leafs 100g
+  :product_description: Fresh picked salad leafs in small plastic bag
+  :product_category_id: 3
+  :product_supplier_id: 1
+  :product_code: DBSAL1
+  :product_pkg_count: 1.0
+  :product_available: false
+  :product_cost: 0.7963
+  :product_units: 100g
+  :product_more_info: Grown in our greenhouse so available all year around.
+- :product_id: 3
+  :product_name: squirrel, 1 carcass
+  :product_description: trapped, cleaned, skinned
+  :product_category_id: 7
+  :product_supplier_id: 3
+  :product_code: sq1
+  :product_pkg_count: 1.0
+  :product_available: false
+  :product_cost: 9.2593
+  :product_units: one carcass
+  :product_more_info: ! "<p>trapped in a Thrupp orchard using an 'instant death' trap
+    </p>\r\n<p>for squirrel recipe ideas contact Nick on 840037</p>"
+- :product_id: 4
+  :product_name: Chilli Oil - 500ml
+  :product_description: Bottle olive oil infused with chilli oil from my own firey
+    chillis
+  :product_category_id: 9
+  :product_supplier_id: 1
+  :product_code: DCCO01
+  :product_pkg_count: 1.0
+  :product_available: false
+  :product_cost: 2.758
+  :product_units: 500ml
+  :product_more_info: ''
+- :product_id: 5
+  :product_name: Cherry tomatoes 100g
+  :product_description: Fresh organic cherry toms on the vine
+  :product_category_id: 3
+  :product_supplier_id: 1
+  :product_code: DBTOM1
+  :product_pkg_count: 1.0
+  :product_available: false
+  :product_cost: 1.0185
+  :product_units: 100g
+  :product_more_info: This is the blurb and maybe even a picture... lovely little
+    toms!

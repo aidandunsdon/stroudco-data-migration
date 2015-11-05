@@ -1,0 +1,56 @@
+.*
+!.coveralls.yml
+!.gitignore
+!.rspec
+!.slugignore
+!.travis.yml
+*~
+
+# OSX.gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rvmrc
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+/data/*
+**.orig
+rerun.txt
+.project
+
+
+
+# Ignore Redis' dataset snapshot
+dump.rdb
+
+# Ignore chrome driver log
+chromedriver.log
+
+# Ignore rails_best_practices report
+rails_best_practices_output.html
+
+# Ignore brakeman report
+brakeman.html
+
+

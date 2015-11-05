@@ -1,0 +1,56 @@
+---
+- !ruby/object:Ofn::Migration::Destination::Spree::User
+  id: 1
+  email: xxx@example.com
+  login: xxx@example.com
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: ''
+    lastname: Hello
+    address1: ''
+    address2: ''
+    zipcode: ''
+    city: ''
+- !ruby/object:Ofn::Migration::Destination::Spree::User
+  id: 2
+  email: smi...@example.com
+  login: smi...@example.com
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: S
+    lastname: M
+    address1: U...
+    address2: Cheltenham
+    zipcode: ''
+    city: ''
+- !ruby/object:Ofn::Migration::Destination::Spree::User
+  id: 3
+  email: i@example.com
+  login: i@example.com
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: Ch..
+    lastname: Br..
+    address1: F.., High Street
+    address2: Chalford
+    zipcode: ABC DEF
+    city: Stroud
+- !ruby/object:Ofn::Migration::Destination::Spree::User
+  id: 4
+  email: j@email
+  login: j@email
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: J
+    lastname: B
+    address1: ''
+    address2: ''
+    zipcode: ''
+    city: ''
+- !ruby/object:Ofn::Migration::Destination::Spree::User
+  id: 5
+  email: m@c.co
+  login: m@c.co
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: M
+    lastname: R
+    address1: C... R...
+    address2: ''
+    zipcode: ABC DEF
+    city: Stroud

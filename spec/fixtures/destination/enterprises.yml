@@ -1,0 +1,77 @@
+---
+- !ruby/object:Ofn::Migration::Destination::Enterprise
+  id: 1
+  name: Cottage
+  long_description: M.. Cottage took over from Cookes Coffee & Curios in November
+    2014.  The enterprise started life in Brunel Mall in the latter stages of 2013.  Recognising
+    that great coffee is appreciated in Stroud, the dream began. We also work with
+    local artists, working on a reasonable commission basis. We are focused on providing
+    great service with the highest levels of customer satisfaction – we will do everything
+    we can to meet your expectations. With a variety of offerings to choose from,
+    we’re sure you’ll enjoy visiting us. Look around our website www.cookescoffeecurios.com
+    and if you have any comments or questions, please feel free to contact us.  Check
+    back later for new updates to our website. There’s much more to come!
+  contact: A;;;
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: Cottage
+    lastname: A;;;
+    address1: ''
+    address2: Abc..
+    zipcode: ABC DEF
+    city: Stroud
+- !ruby/object:Ofn::Migration::Destination::Enterprise
+  id: 3
+  name: N...
+  long_description: ! '... she drops them off when she is in town.  Gloria has never
+    used sprays in her orchard so this fruit is better than organic!'
+  contact: N;;;
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: N...
+    lastname: N;;;
+    address1: 44 B... R...
+    address2: ''
+    zipcode: ABC DEF
+    city: Stroud
+- !ruby/object:Ofn::Migration::Destination::Enterprise
+  id: 5
+  name: J.. B..
+  long_description: 
+  contact: ''
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: J.. B..
+    lastname: ''
+    address1: ''
+    address2: ''
+    zipcode: ''
+    city: ''
+- !ruby/object:Ofn::Migration::Destination::Enterprise
+  id: 7
+  name: Brewery
+  long_description: ! "<p> <strong>Stroud Brewery is a craft brewery supplying unique
+    beers to drinkers within the 'five valleys' of the Stroud District and sharing
+    some of what makes the area special a little further a field. </strong> </p>\r\n<p>
+    We produce premium beers using high quality ingredients. We use whole hops and
+    our malting barley is grown on the Cotswolds. </p>\r\n<p> Stroud Brewery supports
+    the local economy. We do not sell any beer through supermarkets.  </p>\r\n<p>
+    We sell to pubs, independent retailers and directly to the public. </p>"
+  contact: G... P...
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: Brewery
+    lastname: G... P...
+    address1: ''
+    address2: Abc...
+    zipcode: ABC 2BU
+    city: Stroud
+- !ruby/object:Ofn::Migration::Destination::Enterprise
+  id: 12
+  name: Organic Dairy
+  long_description: ! "<p><font face=\"Arial\">All our cheeses are hand made from
+    home you could think that you had stepped back into the past here. </font></p>\r\n"
+  contact: M... R...
+  address: !ruby/object:Ofn::Migration::Destination::Spree::Address
+    firstname: Organic Dairy
+    lastname: M... R...
+    address1: ! 'Abc..., Def..., Stroud '
+    address2: ! 'M..., '
+    zipcode: ABC DEF
+    city: ! 'Stroud '
